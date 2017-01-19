@@ -10,7 +10,7 @@ class DxToolkit < Formula
   conflicts_with "jq", :because => "dx-toolkit includes a jq binary"
 
   def install
-    rm bin/proot
+    rm "./bin/proot"
     prefix.install Dir["*"]
   end
 

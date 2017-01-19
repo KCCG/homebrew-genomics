@@ -6,7 +6,6 @@ class Plinkseq < Formula
   sha256 "b3eb5687d4ee513cfe94165abcee8e455e3b2c6302b6c34142085a53cbc904b9"
 
   def install
-    system "chmod", "+x", "*"
     bin.install "gcol"
     bin.install "pseq"
     bin.install "smp"

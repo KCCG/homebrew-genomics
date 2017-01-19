@@ -29,4 +29,6 @@ Search [open @ homebrew-science](https://github.com/Homebrew/homebrew-science/is
 `brew help`, `man brew` or check [Homebrew's documentation](https://github.com/Homebrew/brew/blob/master/docs/README.md).
 
 ## Contributing
-Please see the [contributing guide](https://github.com/Homebrew/homebrew-science/blob/master/.github/CONTRIBUTING.md).
+If you'd like to contribute to this tap, then please see, and below, replace any references to homebrew-science with homebrew-genomics:
+* [contributing guide](https://github.com/Homebrew/homebrew-science/blob/master/.github/CONTRIBUTING.md).
+* http://docs.brew.sh/How-To-Open-a-Homebrew-Pull-Request.html
